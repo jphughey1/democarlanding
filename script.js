@@ -9,10 +9,15 @@ const quotes = [
     source:
       'Karl Brauer, executive publisher of Autotrader and Kelley Blue Book'
   },
+  {
+    quote:
+      'Though now placed behind the driver, the LT2 gives the same visceral experience we all expect from Corvette.',
+    source: "Jordan Lee, GM's global chief engineer of Small Block engines"
+  },
 
   {
     quote:
-      'No Corvette has ever felt so comfortable, nimble and yet completely stable.',
+      'No Corvette has never felt so comfortable, nimble and yet completely stable.',
     source: 'Tadge Juechter, the C8s executive chief designer.'
   }
 ];
